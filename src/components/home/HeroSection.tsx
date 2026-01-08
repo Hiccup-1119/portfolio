@@ -10,7 +10,7 @@ export const HeroSection = () => {
             Welcome to My Portfolio
           </span>
         </div>
-        <a href="https://drive.google.com/file/d/1x6z-QDCC-eULnc8LMiIneymf7ced21Bu/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1EKctxnIaaWzpVW_uPwoDbHVq7rnBZRp0/view?usp=drive_link" target="_blank">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in underline hover:text-blue-400">
             Full Stack Developer
           </h1>
