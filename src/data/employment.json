@@ -1,21 +1,27 @@
 [
     {
       "id": 1,
-      "company": "Olafluence",
+      "company": "Digital Business Lab",
       "role": "Senior Software Engineer",
-      "period": "March 2024 - June 2025"
+      "period": "January 2024 - March 2025"
     },
     {
       "id": 2,
-      "company": "Foxpay",
-      "role": "Software Engineer",
-      "period": "June 2021 - February 2024"
+      "company": "Alibaba Cloud ",
+      "role": "Frontend Engineer",
+      "period": "May 2022 - December 2023"
     },
     {
       "id": 3,
-      "company": "Arcanys",
+      "company": "NeoWork",
       "role": "Full Stack Developer",
-      "period": "July 2018 - May 2021"
+      "period": "August 2021 - April 2022"
+    },
+    {
+      "id": 4,
+      "company": "White Cloak",
+      "role": "Software Engineer",
+      "period": "December 2018 - June 2021"
     }
   ]
   
