@@ -3,9 +3,9 @@ import { Github, Linkedin, Twitter, DownloadCloud, Mail } from 'lucide-react';
 export const Footer = () => {
   const socialLinks = [
     { icon: Github, url: 'https://github.com/luckydevstar', label: 'GitHub' },
-    // { icon: Linkedin, url: 'https://linkedin.com', label: 'LinkedIn' },
+    { icon: Linkedin, url: 'https://www.linkedin.com/in/ramjit-yash-sanger-254a40395/', label: 'LinkedIn' },
     // { icon: Twitter, url: 'https://twitter.com', label: 'Twitter' },
-    { icon: Mail, url: 'mailto:johnezekiele30@gmail.com', label: 'Email' },
+    { icon: Mail, url: 'mailto:ramjityashsanger123@gmail.com', label: 'Email' },
     { icon: DownloadCloud, url: "https://drive.google.com/file/d/1EKctxnIaaWzpVW_uPwoDbHVq7rnBZRp0/view?usp=drive_link", label: "Download Resume Here"},
   ];
 
