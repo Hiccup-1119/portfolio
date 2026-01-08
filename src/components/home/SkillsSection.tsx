@@ -24,6 +24,7 @@ import {
       { name: 'Tailwind CSS', icon: <Palette size={20} /> },
       { name: 'Node.js', icon: <Server size={20} /> },
       { name: 'Express', icon: <Workflow size={20} /> },
+      { name: 'WordPress', icon: <Layout size={20} /> },
       { name: 'NestJS', icon: <Database size={20} /> },
     ];
   
